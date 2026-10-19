@@ -1,11 +1,10 @@
 Package: tasnimpack
-Title: What the Package Does (One Line, Title Case)
+Title: Convert World Bank Data Files From Short to Long Format
 Version: 0.0.0.9000
 Authors@R: 
     person("Tasnim", "Anwar-Siraj", , "tasnim.anwarsiraj@mail.utoronto.ca", role = c("aut", "cre"))
 Description: Converts World Bank Data files from short to long format.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Config/roxygen2/version: 8.1.1
