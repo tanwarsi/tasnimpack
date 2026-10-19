@@ -7,13 +7,13 @@
 make_longer(filename)
 }
 \arguments{
-\item{x}{file name}
+\item{filename}{A data frame containing indicator values by year and country ISO.}
 }
 \value{
-reads loaded file, creates  variable name for statistic, organizes by country and data for each year for each country is presented in long format.
+A data frame with iso, year, and the indicator values in long format.
 }
 \description{
-a function that changes files from short to long format
+a function that changes World Bank DataBank files from short to long format
 }
 \examples{
 make_longer(maternal_mortality)
