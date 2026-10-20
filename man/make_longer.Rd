@@ -7,7 +7,7 @@
 make_longer(filename)
 }
 \arguments{
-\item{filename}{A data frame containing indicator values by year and country ISO in short format.}
+\item{filename}{A data frame containing indicator values by year (prefix 'X') and country ISO in short format.}
 }
 \value{
 A data frame with iso, year, and the indicator values in long format.

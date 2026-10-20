@@ -1,6 +1,6 @@
 #' @title Convert to Long Format
 #' @description a function that changes World Bank DataBank files from short to long format
-#' @param  filename A data frame containing indicator values by year and country ISO in short format.
+#' @param  filename A data frame containing indicator values by year (prefix 'X') and country ISO in short format.
 #' @return A data frame with iso, year, and the indicator values in long format.
 #' @examples
 #' make_longer(maternal_mortality)
