@@ -8,25 +8,25 @@
 #'   \item{iso}{Country ISO}
 #'   \item{indicator}{Description of the indicator}
 #'   \item{X2000}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2001}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2002}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2003}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2004}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2005}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2006}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2007}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2008}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2009}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2010}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2011}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2012}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2013}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2014}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2015}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2016}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2017}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2018}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-#'   \item{X2019}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
+#'   \item{X2001}{Maternal Mortality Ratio for 2001 (modelled estimate, per 100 000 live births)}
+#'   \item{X2002}{Maternal Mortality Ratio for 2002 (modelled estimate, per 100 000 live births)}
+#'   \item{X2003}{Maternal Mortality Ratio for 2003 (modelled estimate, per 100 000 live births)}
+#'   \item{X2004}{Maternal Mortality Ratio for 2004 (modelled estimate, per 100 000 live births)}
+#'   \item{X2005}{Maternal Mortality Ratio for 2005 (modelled estimate, per 100 000 live births)}
+#'   \item{X2006}{Maternal Mortality Ratio for 2006 (modelled estimate, per 100 000 live births)}
+#'   \item{X2007}{Maternal Mortality Ratio for 2007 (modelled estimate, per 100 000 live births)}
+#'   \item{X2008}{Maternal Mortality Ratio for 2008 (modelled estimate, per 100 000 live births)}
+#'   \item{X2009}{Maternal Mortality Ratio for 2009 (modelled estimate, per 100 000 live births)}
+#'   \item{X2010}{Maternal Mortality Ratio for 2010 (modelled estimate, per 100 000 live births)}
+#'   \item{X2011}{Maternal Mortality Ratio for 2011 (modelled estimate, per 100 000 live births)}
+#'   \item{X2012}{Maternal Mortality Ratio for 2012 (modelled estimate, per 100 000 live births)}
+#'   \item{X2013}{Maternal Mortality Ratio for 2013 (modelled estimate, per 100 000 live births)}
+#'   \item{X2014}{Maternal Mortality Ratio for 2014 (modelled estimate, per 100 000 live births)}
+#'   \item{X2015}{Maternal Mortality Ratio for 2015 (modelled estimate, per 100 000 live births)}
+#'   \item{X2016}{Maternal Mortality Ratio for 2016 (modelled estimate, per 100 000 live births)}
+#'   \item{X2017}{Maternal Mortality Ratio for 2017 (modelled estimate, per 100 000 live births)}
+#'   \item{X2018}{Maternal Mortality Ratio for 2018 (modelled estimate, per 100 000 live births)}
+#'   \item{X2019}{Maternal Mortality Ratio for 2019 (modelled estimate, per 100 000 live births)}
 #' }
 #' @source https://data.worldbank.org/indicator/SH.STA.MMRT
 "maternal_mortality"
