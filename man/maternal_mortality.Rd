@@ -28,7 +28,7 @@ A data frame with 186 rows and 23 variables:
 \item{X2016}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
 \item{X2017}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
 \item{X2018}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
-\item{X2019}{Maternal Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
+\item{X2019}{Maternal  Mortality Ratio for 2000 (modelled estimate, per 100 000 live births)}
 }
 }
 \source{
